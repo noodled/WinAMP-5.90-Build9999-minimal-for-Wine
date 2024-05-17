@@ -1,5 +1,5 @@
-# WinAMP-5.90-Build9999-minimal-for-Wine
-WinAMP 5.90 Build9999 minimal for Wine
+# WinAMP-5.92 Built 2023 April 26 minimal-for-Wine
+WinAMP-5.92 Built 2023 April 26 minimal-for-Wine
 
 Check This on virusTotal !!!
 
